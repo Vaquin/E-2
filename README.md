@@ -1,4 +1,4 @@
-# E-
+# EJERCICIO 2 - DESARROLLO MOVIL MULTIPLATAFORMA
 
 ##Desarrolla el ejercicio contenido en el video adjunto
 
